@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="demo.CompositeReplay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/CompositeReplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="160" x="1765" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="demo.PaddleReplay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/PaddleReplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="121" x="2412" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="demo.BallUndo" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BallUndo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="106" x="1032" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="demo.ClockTick" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/ClockTick.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="209" x="2931" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="demo.Save" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Save.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="3453" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="demo.Game" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="223" x="2828" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="demo.Clock" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Clock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="223" x="2889" y="1120"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="demo.PaddleUndo" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/PaddleUndo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="111" x="1178" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="demo.Pause" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Pause.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="3716" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="demo.Start" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Start.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="3979" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="demo.Controls" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Controls.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="3329" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="12" language="java" name="demo.Drawable" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Drawable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1130" y="1397"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="demo.SaveObject" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/SaveObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="119" x="538" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="demo.BrickReplay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BrickReplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="109" x="2263" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="demo.ChangeLayout" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/ChangeLayout.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="3552" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="demo.BallReplay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BallReplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="106" x="2117" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="demo.PaddleMove" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/PaddleMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="209" x="2547" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="demo.Replay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Replay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="2117" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="demo.Brick" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Brick.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="183" x="477" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="demo.Paddle" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Paddle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="190" x="700" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="demo.ControlPanel" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/ControlPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="223" x="3308" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="demo.Restart" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Restart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="4242" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="demo.Load" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Load.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="3045" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="demo.Command" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Command.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="120" x="1529" y="1120"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="25" language="java" name="demo.Undo" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Undo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="1329" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="demo.BrickUndo" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BrickUndo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="106" x="886" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="demo.ClockReplay" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/ClockReplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="112" x="1965" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="28" language="java" name="demo.Behavioral" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Behavioral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="209" x="3185" y="1600"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="29" language="java" name="demo.BallMove" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BallMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="361" x="4507" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="demo.CompositeUndo" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/CompositeUndo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="160" x="1329" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="demo.BrickMove" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/BrickMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="209" x="2796" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="demo.Ball" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Ball.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="274" x="930" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="demo.CommandInvoker" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/CommandInvoker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="196" x="1529" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="demo.StoreObjectStates" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/StoreObjectStates.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="213" x="2573" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="demo.Main" project="Applied Algorithms" 
+    file="/Applied Algorithms/src/demo/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="1928" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="36">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="37" name="clock"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="40" name="brundo"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="834" y="612"/>    
+    <bendpoint x="834" y="938"/>    
+    <bendpoint x="834" y="1120"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="43" name="ballUndo"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="46">    
+    <bendpoint x="4558" y="612"/>    
+    <bendpoint x="4558" y="938"/>    
+    <bendpoint x="4558" y="1120"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="47" name="paddleMove"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="50" name="clockTick"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <bendpoint x="666" y="612"/>    
+    <bendpoint x="687" y="938"/>    
+    <bendpoint x="687" y="1120"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="53" name="paddleReplay"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="56" name="game"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="59" name="pundo"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="62">    
+    <bendpoint x="507" y="612"/>    
+    <bendpoint x="507" y="938"/>    
+    <bendpoint x="507" y="1120"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="63" name="brickReplay"/>      
+      <multiplicity id="64" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <bendpoint x="666" y="1120"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="66" name="ball"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="69" name="slot"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="72" name="preplay"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="75" name="storeObject"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="3191" y="612"/>    
+    <bendpoint x="3191" y="938"/>    
+    <bendpoint x="3152" y="1120"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="78" name="brick"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="81" name="clockTick"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="83">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="84">    
+    <bendpoint x="750" y="612"/>    
+    <bendpoint x="813" y="938"/>    
+    <bendpoint x="876" y="1120"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="85" name="movePaddle"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="88" name="breplay"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="91" name="buttonpanel"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="969" y="1120"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="94" name="ball"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="97" name="replay"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="99">    
+    <bendpoint x="3212" y="612"/>    
+    <bendpoint x="3233" y="938"/>    
+    <bendpoint x="3236" y="1120"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <association id="100">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="101" name="panel"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="104" name="undoList"/>      
+      <multiplicity id="105" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="107" name="invoker"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <bendpoint x="1679" y="1120"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="110" name="ball"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <bendpoint x="792" y="612"/>    
+    <bendpoint x="792" y="938"/>    
+    <bendpoint x="792" y="1120"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="113" name="ballReplay"/>      
+      <multiplicity id="114" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <bendpoint x="855" y="612"/>    
+    <bendpoint x="855" y="938"/>    
+    <bendpoint x="855" y="1120"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="116" name="paddle"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="118">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="119">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="120" name="replay"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="624" y="1120"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="123" name="brick"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="125">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="126">    
+    <bendpoint x="3275" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="127" name="save"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="129">    
+    <bendpoint x="3561" y="142"/>    
+    <bendpoint x="3422" y="612"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="130">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="131" name="replayList"/>      
+      <multiplicity id="132" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="134" name="undo"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <bendpoint x="2900" y="938"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="137" name="clock"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="139">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="140">    
+    <bendpoint x="486" y="612"/>    
+    <bendpoint x="486" y="938"/>    
+    <bendpoint x="486" y="1120"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="141">    
+    <bendpoint x="771" y="612"/>    
+    <bendpoint x="771" y="938"/>    
+    <bendpoint x="771" y="1120"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="142">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="143">    
+    <bendpoint x="897" y="1120"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="144" name="brick"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <bendpoint x="3254" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="147" name="load"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <bendpoint x="4495" y="612"/>    
+    <bendpoint x="4495" y="938"/>    
+    <bendpoint x="4495" y="1120"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="150" name="ball"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <bendpoint x="1042" y="1120"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="153" name="paddle"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <bendpoint x="3380" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="156" name="pause"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="158">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="159">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="160">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="161">    
+    <bendpoint x="465" y="612"/>    
+    <bendpoint x="465" y="938"/>    
+    <bendpoint x="465" y="1120"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="162" name="brickUndo"/>      
+      <multiplicity id="163" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="165" name="game"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="168" name="brreplay"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="170">    
+    <bendpoint x="1700" y="1120"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="171" name="brick"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="173">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="174">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="175" name="clock"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="177">    
+    <bendpoint x="1742" y="1120"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="178" name="drawables"/>      
+      <multiplicity id="179" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="180">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="181">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="182" name="game"/>      
+      <multiplicity id="183" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="184">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="185" name="game"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <bendpoint x="708" y="612"/>    
+    <bendpoint x="708" y="938"/>    
+    <bendpoint x="708" y="1120"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="188" name="paddleUndo"/>      
+      <multiplicity id="189" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="190">    
+    <bendpoint x="3233" y="612"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="191">    
+    <bendpoint x="2837" y="938"/>    
+    <bendpoint x="2816" y="1120"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="192" name="ball"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <bendpoint x="3401" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="195" name="restart"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <bendpoint x="3296" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="198" name="changeLayout"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <bendpoint x="2797" y="612"/>    
+    <bendpoint x="2858" y="938"/>    
+    <bendpoint x="2858" y="1120"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="201" name="moveBall"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="203">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="204">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="205" name="game"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="208" name="breplay"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <bendpoint x="2879" y="938"/>    
+    <bendpoint x="2837" y="1120"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="211" name="brick"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="214" name="invoker"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="216">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="217">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="218">    
+    <bendpoint x="687" y="612"/>    
+    <bendpoint x="750" y="938"/>    
+    <bendpoint x="813" y="1120"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="219" name="brickMove"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="221">    
+    <bendpoint x="4579" y="612"/>    
+    <bendpoint x="4579" y="938"/>    
+    <bendpoint x="4579" y="1120"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="222" name="brickCollide"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="224">    
+    <bendpoint x="3359" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="225" name="start"/>      
+      <multiplicity id="226" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="227">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="228" name="creplay"/>      
+      <multiplicity id="229" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="230">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="231" name="paddleMove"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="233">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="234">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="235" name="game"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <bendpoint x="645" y="1120"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="238" name="paddle"/>      
+      <multiplicity id="239" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="240">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="241" name="game"/>      
+      <multiplicity id="242" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="243">    
+    <bendpoint x="4516" y="612"/>    
+    <bendpoint x="4516" y="938"/>    
+    <bendpoint x="4516" y="1120"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="244" name="brick"/>      
+      <multiplicity id="245" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="246">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="247" name="clock"/>      
+      <multiplicity id="248" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="249">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="250" name="preplay"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <bendpoint x="3317" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="253" name="replay"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="255">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="256" name="invoker"/>      
+      <multiplicity id="257" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <bendpoint x="3338" y="612"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="259" name="undo"/>      
+      <multiplicity id="260" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="261">    
+    <bendpoint x="729" y="612"/>    
+    <bendpoint x="729" y="938"/>    
+    <bendpoint x="729" y="1120"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="262">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="263" name="bundo"/>      
+      <multiplicity id="264" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="265">    
+    <bendpoint x="4537" y="612"/>    
+    <bendpoint x="4537" y="938"/>    
+    <bendpoint x="4537" y="1120"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <realization id="266">    
+    <bendpoint x="3173" y="1120"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <association id="267">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="268" name="brreplay"/>      
+      <multiplicity id="269" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="270">    
+    <bendpoint x="2816" y="938"/>    
+    <bendpoint x="2795" y="1120"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="271" name="paddle"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="273">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="274" name="game"/>      
+      <multiplicity id="275" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="276">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="277" name="creplay"/>      
+      <multiplicity id="278" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="279">    
+    <bendpoint x="3170" y="938"/>    
+    <bendpoint x="3194" y="1120"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="280" name="brickMove"/>      
+      <multiplicity id="281" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="282">    
+    <bendpoint x="1721" y="1120"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="283" name="paddle"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="285">    
+    <bendpoint x="3170" y="612"/>    
+    <bendpoint x="3212" y="938"/>    
+    <bendpoint x="3215" y="1120"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
